@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">groupe1a</string>
+    <string-array name="navigation_drawer_items_array">
+        <item>All Projects</item>
+        <item>Launch Your project</item>
+        <item>Sign up</item>
+        <item>Connection</item>
+    </string-array>
+</resources>
